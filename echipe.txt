@@ -1,0 +1,132 @@
+16
+
+FCBarcelona 10 5
+Lionel Messi
+Antonie Griezmann
+Ousmane Dembele
+Gerard Pique
+Sergino Dest
+
+RealMadrid 12 5
+Karim Benzema
+Sergio Ramos
+Eden Hazard
+Marcelo Vieira
+Luka Modric
+
+Juventus 8 5
+Cristiano Ronaldo
+Paulo Dybala
+Federico Chiesa
+Gianluigi Buffon
+Arthur Melo
+
+Liverpool 15 5
+Mohamed Salah
+Caoimhin Kelleher
+Robert Firmino
+Sadio Mane
+Diogo Jota
+
+PSG 7 5
+Kylian Mbappe
+Neymar Junior
+Mauro Icardi
+Xavi Simons
+Keylor Navas
+
+Dortmund 6 5
+Erling Haaland
+Marco Reus
+Jadon Sancho
+Mats Hummels
+Roman Burki
+
+Chelsea 1 5
+Tammy Abraham
+Kai Harvertz
+Timo Werner
+Thiago Silva 
+Olivier Girou
+
+ManUnited  2 5
+Marcus Rashford
+Anthony Martial 
+Luke Shaw
+Harry Maguire
+Bruno Fernandes
+
+ACMilan 4 5
+Zlatan Ibrahimovic
+Rafael Leao
+Frank Kessie
+Theo Hernandez
+Hakan Chalhanoglu
+
+FCSB 4 5
+Florinel Coman
+Andrei Vlad
+Olimpiu Morutan
+Darius Olaru
+Andrei Miron
+
+UTA 30 5
+Alex Albu
+Florin Iacob
+Denis Rusu
+Adrian Petre
+Roger Junior
+
+Bayern 14 5
+Robert Lewandowski
+Kingsley Coman
+Thomas Muller
+Alphonso Davies
+Leroy Sane
+
+ManCity 1 5
+Kevin DeBruyne
+Bern Silva
+Phil Phoden
+Gabriel Jesus
+Ilkai Gundogan
+
+Arsenal 5 5
+Alexander Lacazette
+Aubameyang Junior
+Saka Alex
+David Luiz
+Kirian Tierney
+
+Inter 6 5
+Romelu Lukaku
+Lautaro Martinez
+Milan Skriniar
+Andrei Radu
+Ivan Perisic
+
+AtleticoMadrid 8 5
+Diego Costa
+Thomas Lemar
+Joao Felix
+Koke Junior
+Saul Niguez
+
+
+ARAD 13 15
+AAA AA
+BB BA
+cc cc
+d d
+ggg ggg
+ggg ggg
+aaa aaa
+aa ss
+dd f
+ga qwrq
+asdar arqaarqw
+aqrfafas afasfrasr
+adqweqw weqweqes
+qwedsadq qwdasdq
+qdasdq qdqsq
+

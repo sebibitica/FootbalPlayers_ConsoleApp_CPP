@@ -1,0 +1,21 @@
+20
+Lionel Messi 30 FCBarcelona 500 atacant
+Cristiano Ronaldo 33 Juventus 600 atacant
+Kylian Mbappe 22 PSG 300 atacant
+Mohamed Salah 29 Liverpool 250 atacant
+Marcus Rashford 23 ManUnited 150 atacant
+Romelu Lukaku 27 Inter 200 atacant
+Robert Lewandowski 31 Bayern 450 atacant
+Timo Werner 25 Chelsea 100 atacant
+Toni Kroos 30 RealMadrid 80 mijlocas
+Kevid DeBruyne 29 ManCity 90 mijlocas
+Zlatan Ibrahimovic 35 ACMilan 300 atacant
+Florinel Coman 22 FCSB 99 mijlocas
+Denis Rusu 25 UTA 70 fundas
+David Luiz 30 Arsenal 50 mijlocas
+Lautaro Martinez 28 Inter 100 atacant
+Diego Costa 30 AtleticMadrid 199 mijlocas
+Bruno Fernandes 28 ManUnited 100 fundas
+Olivier Girou 31 Chelsea 87 mijlocas
+Erling Haaland 23 Dortmund 299 atacant
+Neymar Junior 27 PSG 301 atacant
